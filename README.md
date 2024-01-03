@@ -1,5 +1,5 @@
 🙋‍♂️ Olá, cyberamigos! 
- - Eu sou Marcelo Hugo, um apaixonado por tecnologia! 🤌❤️‍🔥
+ - Eu sou Marcelo Hugo, um apaixonado por tecnologias! 🤌❤️‍🔥
 - 👨‍💻  Na primeira formação, mergulhei na pesquisa de IA aplicada em espaços museais, inspirado por grandes nomes como Pierre Lévy e Lev Vygotsky, publicando em uma revista de alto impacto o artigo "Tecnologia e mediação interativa: uma perspectiva museológica contemporânea sistematizada na psicologia da educação".
 - 👨‍🏫  Tenho experiência como professor estadual de Minas Gerais, ministrando as disciplinas relacionadas à programação, segurança de sistemas e desenvolvimento web, no curso Técnico em Informática. 
 - 👨‍🎓  Atualmente, estou concluindo a pós-graduação em Perícias Forenses no Instituto de Pós-Graduação e Graduação (IPOG).
