@@ -1,12 +1,19 @@
-🙋‍♂️ Olá, cyberamigos! 
+#### 🙋‍♂️ Olá, cyberamigos! 
+
  - Eu sou Marcelo Hugo, um apaixonado por tecnologias! 🤌❤️‍🔥
 - 👨‍💻  Na primeira formação, mergulhei na pesquisa de IA aplicada em espaços museais, inspirado por grandes nomes como Pierre Lévy e Lev Vygotsky, publicando em uma revista de alto impacto o artigo "Tecnologia e mediação interativa: uma perspectiva museológica contemporânea sistematizada na psicologia da educação".
 - 👨‍🏫  Tenho experiência como professor estadual de Minas Gerais, ministrando as disciplinas relacionadas à programação, segurança de sistemas e desenvolvimento web, no curso Técnico em Informática.
-- 
-- Tecnologias que Domino
+  
+#### Tecnologias
+![image](https://github.com/Marceloh93/Marceloh93/assets/142449528/4484ce8a-a4af-44ac-a016-cdc9f737815e)
+![image](https://github.com/Marceloh93/Marceloh93/assets/142449528/de9b82ea-4f42-4bd5-8ec9-81ed57989a4b)
 
-HTML5 CSS3 JavaScript TypeScript React Node.js PostgreSQL Python VSCode SparkAR
-Experiência e Projetos
+
+
+
+HTML5 CSS3 JavaScript Python VSCode SparkAR
+
+#### About me
 
 - 👨‍🎓  Atualmente, estou concluindo a pós-graduação em Perícias Forenses no Instituto de Pós-Graduação e Graduação (IPOG).
 - 🎓  Possuo formação em Tecnologia em Investigação Forense e Perícia Criminal pelo Centro Universitário Estácio de Ribeirão Preto (2020) e Bacharelado em Museologia pela Universidade Federal de Ouro Preto (2019).
