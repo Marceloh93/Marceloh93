@@ -29,6 +29,7 @@
  ## Atualmente
  <div></div>
 Estudando Cybersecurity, Hacking Ethical, Pentest e Ferramentas Forenses do Kali Linux.
+![image](https://github.com/Marceloh93/Marceloh93/assets/142449528/9b1c68be-7311-43e5-bc57-a684994bfb4f)
 
 <!---
 Marceloh93/Marceloh93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
