@@ -4,7 +4,7 @@
 ## 🙋‍♂️ Olá, Cyberamigos! Sou o Marcelo Hugo!
 <div style="display: inline_block"><br>
 <p> Apaixonado por tecnologias em todas as suas nuances!🤌❤️‍🔥</p>
-<p>👨‍💻 Na primeira formação, mergulhei na pesquisa de IA aplicada em espaços museais, inspirado por grandes nomes como Pierre Lévy e Lev Vygotsky, publicando em uma revista de alto impacto o artigo "Tecnologia e mediação interativa: uma perspectiva museológica contemporânea sistematizada na psicologia da educação".</p>
+<p>👨‍💻 Na primeira formação, mergulhei na pesquisa de IA aplicada em espaços museais, inspirado por grandes nomes como Pierre Lévy e Lev Vygotsky, publicando em uma revista de alto impacto o artigo *Tecnologia e mediação interativa: uma perspectiva museológica contemporânea sistematizada na psicologia da educação*.</p>
 <p>👨‍🏫 Tenho experiência como professor estadual de Minas Gerais, ministrando as disciplinas relacionadas à programação, segurança de sistemas e desenvolvimento web, no curso Técnico em Informática.</p>
 
  ## Tecnologias
