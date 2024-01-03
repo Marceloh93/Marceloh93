@@ -1,9 +1,9 @@
 <!-- Seção de Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c24ff&height=80&section=header"/>
 
-## 🙋‍♂️ Olá, Cyberamigos! 
+## 🙋‍♂️ Olá, Cyberamigos! Sou o Marcelo Hugo!
 <div style="display: inline_block"><br>
-<p>Eu sou Marcelo Hugo, apaixonado por tecnologias e todas as suas nuances!🤌❤️‍🔥</p>
+<p> Apaixonado por tecnologias e todas as suas nuances!🤌❤️‍🔥</p>
 <p>👨‍💻  Na primeira formação, mergulhei na pesquisa de IA aplicada em espaços museais, inspirado por grandes nomes como Pierre Lévy e Lev Vygotsky, publicando em uma revista de alto impacto o artigo "Tecnologia e mediação interativa: uma perspectiva museológica contemporânea sistematizada na psicologia da educação".</p>
 <p>👨‍🏫  Tenho experiência como professor estadual de Minas Gerais, ministrando as disciplinas relacionadas à programação, segurança de sistemas e desenvolvimento web, no curso Técnico em Informática.</p>
 
@@ -16,7 +16,7 @@
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
- ## About me
+ ## Sobre mim
 <div style="display: inline_block"><br>
 <p>👨‍🎓 Atualmente, estou concluindo a pós-graduação em Perícias Forenses no Instituto de Pós-Graduação e Graduação (IPOG).</p>
 <p>🎓 Possuo formação em Tecnologia em Investigação Forense e Perícia Criminal pelo Centro Universitário Estácio de Ribeirão Preto (2020) e Bacharelado em Museologia pela Universidade Federal de Ouro Preto (2019).</p>
