@@ -1,4 +1,4 @@
-#### 🙋‍♂️ Olá, cyberamigos! 
+#### 🙋‍♂️ Olá, Cyberamigos! 
 <div>
 <div style="display: inline_block"><br>
 - Eu sou Marcelo Hugo, um apaixonado por tecnologias! 🤌❤️‍🔥
@@ -19,11 +19,11 @@
 - 🎓  Possuo formação em Tecnologia em Investigação Forense e Perícia Criminal pelo Centro Universitário Estácio de Ribeirão Preto (2020) e Bacharelado em Museologia pela Universidade Federal de Ouro Preto (2019).
 - ❤️‍🔥  Descobri uma paixão por Cybersecurity, especialmente em OSINT e Pentest. Sou um entusiasta incansável, sempre explorando novas linguagens e conceitos para aprimorar minhas habilidades. Aqui, no GitHub, meu objetivo é colaborar em projetos empolgantes, aprender com esta incrível comunidade e contribuir para um mundo de código aberto, onde cada linha de código representa aprendizado e evolução. 
 
--🤝 Vamos codificar juntos e criar algo incrível!
+- 🤝 Vamos codificar juntos e criar algo incrível!
 
 </div>
 <!-- Seção de Interesses Futuros -->
-## Atualmente
+### Atualmente
 Estudando Cybersecurity, Hacking Ethical, Pentest e Ferramentas Forenses do Kali Linux.
 
 <!---
