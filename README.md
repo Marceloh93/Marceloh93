@@ -14,6 +14,8 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="![image](https://github.com/Marceloh93/Marceloh93/assets/142449528/ed5e0ca8-c9b7-4f2b-9f02-34cc7610c5c4)">
+
 </div>
 
  ## Sobre mim
