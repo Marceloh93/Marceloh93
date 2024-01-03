@@ -20,7 +20,8 @@
 <div style="display: inline_block"><br>
 <p>👨‍🎓 Atualmente, estou concluindo a pós-graduação em Perícias Forenses no Instituto de Pós-Graduação e Graduação (IPOG).</p>
 <p>🎓 Possuo formação em Tecnologia em Investigação Forense e Perícia Criminal pelo Centro Universitário Estácio de Ribeirão Preto (2020) e Bacharelado em Museologia pela Universidade Federal de Ouro Preto (2019).</p>
-<p>❤️‍🔥 Descobri uma paixão por Cybersecurity, especialmente em OSINT e Pentest. Sou um entusiasta incansável, sempre explorando novas linguagens e conceitos para aprimorar minhas habilidades. Aqui, no GitHub, meu objetivo é colaborar em projetos empolgantes, aprender com esta incrível comunidade e contribuir para um mundo de código aberto, onde cada linha de código representa aprendizado e evolução.</p>
+<p>❤️‍🔥 Descobri uma paixão por Cybersecurity, especialmente em OSINT e Pentest. Sou um entusiasta incansável, sempre explorando novas linguagens e conceitos para aprimorar minhas habilidades.</p>
+<p>🎯 Aqui, no GitHub, meu objetivo é colaborar em projetos empolgantes, aprender com esta incrível comunidade e contribuir para um mundo de código aberto, onde cada linha de código representa aprendizado e evolução.</p>
 <p>🤝 Vamos codificar juntos e criar algo incrível!</p>
 </div>
 
