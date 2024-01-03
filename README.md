@@ -1,4 +1,5 @@
 #### 🙋‍♂️ Olá, cyberamigos! 
+<div>
 <div style="display: inline_block"><br>
 - Eu sou Marcelo Hugo, um apaixonado por tecnologias! 🤌❤️‍🔥
 - 👨‍💻  Na primeira formação, mergulhei na pesquisa de IA aplicada em espaços museais, inspirado por grandes nomes como Pierre Lévy e Lev Vygotsky, publicando em uma revista de alto impacto o artigo "Tecnologia e mediação interativa: uma perspectiva museológica contemporânea sistematizada na psicologia da educação".
