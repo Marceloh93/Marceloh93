@@ -7,6 +7,7 @@
 <p>👨‍💻 Na primeira formação, mergulhei na pesquisa de IA aplicada em espaços museais, inspirado por grandes nomes como Pierre Lévy e Lev Vygotsky, publicando em uma revista de alto impacto o artigo <i>"Tecnologia e mediação interativa: uma perpectiva museológica contemporânea sistematizada na psicologia da educação"</i>.</p>
 <p>👨‍🏫 Tenho experiência como professor estadual de Minas Gerais, ministrando as disciplinas relacionadas à programação, segurança de sistemas e desenvolvimento web, no curso Técnico em Informática.</p>
 </div>
+
  ## Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -15,6 +16,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </div>
+
  ## Sobre mim
 <div style="display: inline_block"><br>
 <p>👨‍🎓 Atualmente, estou concluindo a pós-graduação em Perícias Forenses no Instituto de Pós-Graduação e Graduação (IPOG).</p>
@@ -23,6 +25,7 @@
 <p>🎯 Aqui, no GitHub, meu objetivo é colaborar em projetos empolgantes, aprender com esta incrível comunidade e contribuir para um mundo de código aberto, onde cada linha de código representa aprendizado e evolução.</p>
 <p>🤝 Vamos codificar juntos e criar algo incrível!</p>
 </div>
+
 <!-- Seção de Interesses Futuros -->
  ## Atualmente
  <div></div>
