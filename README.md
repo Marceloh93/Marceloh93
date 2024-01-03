@@ -1,6 +1,5 @@
 <!-- Seção de Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c24ff&height=80&section=header"/>
-
 ## 🙋‍♂️ Olá, Cyberamigos! 
 <div style="display: inline_block"><br>
 <p> Eu sou Marcelo Hugo, um apaixonado por tecnologias! 🤌❤️‍🔥</p>
@@ -28,7 +27,8 @@
 <!-- Seção de Interesses Futuros -->
  ## Atualmente
  <div></div>
-Estudando Cybersecurity, Hacking Ethical, Pentest e Ferramentas Forenses do Kali Linux.
+<p>Estudando Cybersecurity, Hacking Ethical, Pentest e Ferramentas Forenses do Kali Linux.</p>
+
 ![image](https://github.com/Marceloh93/Marceloh93/assets/142449528/9b1c68be-7311-43e5-bc57-a684994bfb4f)
 
 <!---
