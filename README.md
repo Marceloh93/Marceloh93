@@ -32,7 +32,7 @@
 
 <!-- Seção de Interesses Futuros -->
  ## Atualmente
- <div></div>
+ <div style="display: inline_block"><br>
 <p>📚🐧 Estudando <b>Cybersecurity</b>, <b>Ethical Hacking</b>, <b>Pentest</b> e <b>Forensics Tools</b> do Kali Linux.</p>
 
 ![image](https://github.com/Marceloh93/Marceloh93/assets/142449528/57e18724-6ea0-43e4-afc5-29e21f46a44e)
