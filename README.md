@@ -1,6 +1,5 @@
 <!-- Seção de Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c24ff&height=80&section=header"/>
-
 ## 🙋‍♂️ Olá, Cyberamigos! 
 <div style="display: inline_block"><br>
 <p> Eu sou Marcelo Hugo, um apaixonado por tecnologias! 🤌❤️‍🔥</p>
@@ -30,7 +29,8 @@
  <div></div>
 <p>📚 Estudando Cybersecurity, Hacking Ethical, Pentest e Ferramentas Forenses do Kali Linux.</p>
 
-![image](https://github.com/Marceloh93/Marceloh93/assets/142449528/e257d6a4-8dae-4adb-9a5a-4fe75bbd8d29)
+![image](https://github.com/Marceloh93/Marceloh93/assets/142449528/57e18724-6ea0-43e4-afc5-29e21f46a44e)
+
 
 
 <!---
