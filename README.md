@@ -1,6 +1,7 @@
 <!-- Seção de Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c24ff&height=80&section=header"/>
 
+<img width=100% src=https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Input%20text&section=header&reversal=false/>
 ## 🙋‍♂️ Olá, Cyberamigos! Sou o Marcelo Hugo!
 <div style="display: inline_block"><br>
 <p> Apaixonado por tecnologias em todas as suas nuances!🤌❤️‍🔥</p>
