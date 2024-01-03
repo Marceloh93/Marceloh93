@@ -1,14 +1,13 @@
 <!-- Seção de Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c24ff&height=80&section=header"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8ad0f2&height=80&section=header"/>
 
-#### 🙋‍♂️ Olá, Cyberamigos! 
+## 🙋‍♂️ Olá, Cyberamigos! 
 <div style="display: inline_block"><br>
 <p> Eu sou Marcelo Hugo, um apaixonado por tecnologias! 🤌❤️‍🔥</p>
 <p>👨‍💻  Na primeira formação, mergulhei na pesquisa de IA aplicada em espaços museais, inspirado por grandes nomes como Pierre Lévy e Lev Vygotsky, publicando em uma revista de alto impacto o artigo "Tecnologia e mediação interativa: uma perspectiva museológica contemporânea sistematizada na psicologia da educação".</p>
 <p>👨‍🏫  Tenho experiência como professor estadual de Minas Gerais, ministrando as disciplinas relacionadas à programação, segurança de sistemas e desenvolvimento web, no curso Técnico em Informática.</p>
 
- #### Tecnologias
+ ## Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,7 +16,7 @@
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
- #### About me
+ ## About me
 <div style="display: inline_block"><br>
 <p>👨‍🎓 Atualmente, estou concluindo a pós-graduação em Perícias Forenses no Instituto de Pós-Graduação e Graduação (IPOG).</p>
 <p>🎓 Possuo formação em Tecnologia em Investigação Forense e Perícia Criminal pelo Centro Universitário Estácio de Ribeirão Preto (2020) e Bacharelado em Museologia pela Universidade Federal de Ouro Preto (2019).</p>
@@ -25,10 +24,10 @@
 <p>🤝 Vamos codificar juntos e criar algo incrível!</p>
 </div>
 
-<div>
+
 <!-- Seção de Interesses Futuros -->
- #### Atualmente
- </div>
+ ## Atualmente
+ <div></div>
 Estudando Cybersecurity, Hacking Ethical, Pentest e Ferramentas Forenses do Kali Linux.
 
 <!---
