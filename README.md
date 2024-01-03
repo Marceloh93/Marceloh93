@@ -31,7 +31,7 @@
 </div>
 
 <!-- Seção de Interesses Futuros -->
- ## Atualmente
+ ## Próximos Passos
  <div style="display: inline_block"><br>
 <p>📚🐧 Estudando <b>Cybersecurity</b>, <b>Ethical Hacking</b>, <b>Pentest</b> e <b>Forensics Tools</b> do Kali Linux.</p>
 
