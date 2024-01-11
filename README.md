@@ -23,7 +23,7 @@
  ## Emblemas
 <div style="display: inline_block"><br>
  
-<img align="center" alt="Cisco1" height="30" width="40" src="![image](https://github.com/Marceloh93/Marceloh93/assets/142449528/c05f4709-c895-45a2-8fad-7e5bfe788379">
+<img align="center" alt="Cisco1" height="30" width="40" src="https://github.com/Marceloh93/Marceloh93/assets/142449528/c05f4709-c895-45a2-8fad-7e5bfe788379">
 
  ## Sobre mim
 <div style="display: inline_block"><br>
