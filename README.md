@@ -25,6 +25,7 @@
  
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a7bf1b74-c091-4fe6-87dd-ec1732e45ea5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+
  ## Sobre mim
 <div style="display: inline_block"><br>
 <p>👨‍🎓 Atualmente, estou concluindo a pós-graduação em Perícias Forenses no Instituto de Pós-Graduação e Graduação (IPOG).</p>
