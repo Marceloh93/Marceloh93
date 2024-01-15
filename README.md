@@ -18,7 +18,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
-  <img align="center" alt="Linux" height="30" width="40" src="https://icons8.com.br/icon/101665/kali-linux.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="http://pkg.kali.org/pkg/gnome-shell-extension-desktop-icons.svg">
 </div>
 
  ## Emblemas
